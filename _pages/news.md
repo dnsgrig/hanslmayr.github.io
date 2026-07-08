@@ -7,6 +7,17 @@ author_profile: true
 ---
 <img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="150 px" style="padding: 20px">
 
+07/07/26 Our paper titled **"Phase similarity between similar objects indicates representational merging across retrieval training but not sleep"**, led by **Dr Hayley Caldwell** (visiting PhD alumna, **Prof. Hanslmayr's lab**) just got accepted at Imaging Neuroscience [link](https://direct.mit.edu/imag). 
+In this [paper](https://www.biorxiv.org/content/10.64898/2026.01.18.700222v1) we demonstrate that recall training, but not sleep, merges the neural representations of similar items which seems to support discriminability of items later on.
+The project was completed in collaboration with Sebastian Michelmann (PhD alumnus, currently Assistant Professor at NYU), Alex Chatburn, and Karl Lushington from Adelaide University, South Australia. [Read](https://www.biorxiv.org/content/10.64898/2026.01.18.700222v1)
+<br>
+<br>
+<br>
+<br>
+
+
+<img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="150 px" style="padding: 20px">
+
 24/06/2026 New paper alert! **Ying Yao** published her first paper in PLOS Biology titled **It’s not just the phase: Frequency-dependent tuning of neuronal firing**. Read [here](https://doi.org/10.1371/journal.pbio.3003846).
 <br>
 <br>
