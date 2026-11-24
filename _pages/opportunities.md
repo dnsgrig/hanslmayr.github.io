@@ -6,7 +6,7 @@ author_profile: true
 ---
 ---
 <img align="left" src="https://hanslmayr.github.io/images/idea-bulb.png" width="100 px" style="padding: 20px">
-
+<br>
 24/11/26 **Opportunity alert!** Four-year PhD or Masters+ (to be confirmed) in **Personalising Rhythmic Sensory Stimulation for Memory with AI**.
 [Link](https://rhi-leverhulme.github.io/#/projects/sh-2)
 <br>
@@ -16,7 +16,7 @@ author_profile: true
 
 
 <img align="left" src="https://hanslmayr.github.io/images/idea-bulb.png" width="100 px" style="padding: 20px">
-
+<br>
 24/11/26 **Opportunity alert!** Four-year PhD or Masters+ (to be confirmed) in **Adaptive Brain Stimulation and the Neural Basis of Memory**.
 [Link](https://rhi-leverhulme.github.io/#/projects/sh-1)
 <br>
